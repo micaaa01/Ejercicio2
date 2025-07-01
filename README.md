@@ -102,11 +102,13 @@ Ingrese los números separados por espacios ó por "enter":
 Una vez seleccionado algo del menú que aparezca, deberá de ir colocando cada una de la información que se le pida al usuario.
 
 ## Estructura del proyecto:
+``` bash
    PrácticasMP/
     └── Ejercicio2/
         ├── Ejercicio2.java
         ├── Main.java
         └── pom.xml
+```
 
 ## AUTOR:
 Michelle Alanis Navarro Fierro
